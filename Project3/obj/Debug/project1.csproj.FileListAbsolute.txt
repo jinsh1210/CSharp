@@ -1,0 +1,15 @@
+C:\Users\신재창\Desktop\202245087_C\project1\bin\Debug\project1.exe.config
+C:\Users\신재창\Desktop\202245087_C\project1\bin\Debug\project1.exe
+C:\Users\신재창\Desktop\202245087_C\project1\bin\Debug\project1.pdb
+C:\Users\신재창\Desktop\202245087_C\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\신재창\Desktop\202245087_C\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\신재창\Desktop\202245087_C\project1\obj\Debug\project1.exe
+C:\Users\신재창\Desktop\202245087_C\project1\obj\Debug\project1.pdb
+C:\Users\jinsh\Downloads\202245087_C\project1\bin\Debug\project1.exe.config
+C:\Users\jinsh\Downloads\202245087_C\project1\bin\Debug\project1.exe
+C:\Users\jinsh\Downloads\202245087_C\project1\bin\Debug\project1.pdb
+C:\Users\jinsh\Downloads\202245087_C\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\jinsh\Downloads\202245087_C\project1\obj\Debug\project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jinsh\Downloads\202245087_C\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\jinsh\Downloads\202245087_C\project1\obj\Debug\project1.exe
+C:\Users\jinsh\Downloads\202245087_C\project1\obj\Debug\project1.pdb

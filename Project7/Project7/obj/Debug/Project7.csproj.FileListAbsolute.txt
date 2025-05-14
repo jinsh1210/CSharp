@@ -1,0 +1,7 @@
+C:\Users\jinsh\OneDrive\바탕 화면\진승현\대학\2학년 1학기\C#프로그래밍\프로젝트\Project7\Project7\bin\Debug\Project7.exe.config
+C:\Users\jinsh\OneDrive\바탕 화면\진승현\대학\2학년 1학기\C#프로그래밍\프로젝트\Project7\Project7\bin\Debug\Project7.exe
+C:\Users\jinsh\OneDrive\바탕 화면\진승현\대학\2학년 1학기\C#프로그래밍\프로젝트\Project7\Project7\bin\Debug\Project7.pdb
+C:\Users\jinsh\OneDrive\바탕 화면\진승현\대학\2학년 1학기\C#프로그래밍\프로젝트\Project7\Project7\obj\Debug\Project7.csproj.AssemblyReference.cache
+C:\Users\jinsh\OneDrive\바탕 화면\진승현\대학\2학년 1학기\C#프로그래밍\프로젝트\Project7\Project7\obj\Debug\Project7.csproj.CoreCompileInputs.cache
+C:\Users\jinsh\OneDrive\바탕 화면\진승현\대학\2학년 1학기\C#프로그래밍\프로젝트\Project7\Project7\obj\Debug\Project7.exe
+C:\Users\jinsh\OneDrive\바탕 화면\진승현\대학\2학년 1학기\C#프로그래밍\프로젝트\Project7\Project7\obj\Debug\Project7.pdb
