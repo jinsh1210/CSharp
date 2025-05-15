@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\jinsh1210\CSharp\Project12\bin\Debug\Project12.exe.config
+C:\Users\PC\source\repos\jinsh1210\CSharp\Project12\bin\Debug\Project12.exe
+C:\Users\PC\source\repos\jinsh1210\CSharp\Project12\bin\Debug\Project12.pdb
+C:\Users\PC\source\repos\jinsh1210\CSharp\Project12\obj\Debug\Project12.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\jinsh1210\CSharp\Project12\obj\Debug\Project12.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\jinsh1210\CSharp\Project12\obj\Debug\Project12.exe
+C:\Users\PC\source\repos\jinsh1210\CSharp\Project12\obj\Debug\Project12.pdb
