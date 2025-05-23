@@ -5,3 +5,11 @@ C:\Users\PC\source\repos\jinsh1210\CSharp\Project12\obj\Debug\Project12.csproj.A
 C:\Users\PC\source\repos\jinsh1210\CSharp\Project12\obj\Debug\Project12.csproj.CoreCompileInputs.cache
 C:\Users\PC\source\repos\jinsh1210\CSharp\Project12\obj\Debug\Project12.exe
 C:\Users\PC\source\repos\jinsh1210\CSharp\Project12\obj\Debug\Project12.pdb
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project12\bin\Debug\Project12.exe.config
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project12\bin\Debug\Project12.exe
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project12\bin\Debug\Project12.pdb
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project12\obj\Debug\Project12.csproj.AssemblyReference.cache
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project12\obj\Debug\Project12.exe.config
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project12\obj\Debug\Project12.csproj.CoreCompileInputs.cache
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project12\obj\Debug\Project12.exe
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project12\obj\Debug\Project12.pdb
