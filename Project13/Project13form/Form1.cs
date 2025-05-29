@@ -55,5 +55,44 @@ namespace Project13form
         {
 
         }
+
+        private void 새로만들기ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("새로 만들기 메뉴가 클릭되었습니다.");
+        }
+
+        private void 열기ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog.Title = "";
+            openFileDialog.InitialDirectory = @"C:\"; // 초기 디렉토리 설정
+            openFileDialog.Filter = "텍스트 파일 (*.txt)|*.txt|모든 파일 (*.*)|*.*"; // 파일 필터 설정
+            openFileDialog.ShowDialog();
+        }
+
+        private void 저장ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("저장 메뉴가 클릭되었습니다.");
+        }
+
+        private void 종료ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("종료 메뉴가 클릭되었습니다.");
+        }
+
+        private void 잘라내기ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("잘라내기 메뉴가 클릭되었습니다.");
+        }
+
+        private void 복사ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("복사 메뉴가 클릭되었습니다.");
+        }
+
+        private void 붙여넣기ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("붙여넣기 메뉴가 클릭되었습니다.");
+        }
     }
 }
