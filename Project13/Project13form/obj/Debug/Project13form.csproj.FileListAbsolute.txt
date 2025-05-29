@@ -1,0 +1,11 @@
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project13\Project13form\bin\Debug\Project13form.exe.config
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project13\Project13form\bin\Debug\Project13form.exe
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project13\Project13form\bin\Debug\Project13form.pdb
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project13\Project13form\obj\Debug\Project13form.csproj.AssemblyReference.cache
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project13\Project13form\obj\Debug\Project13form.Form1.resources
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project13\Project13form\obj\Debug\Project13form.Properties.Resources.resources
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project13\Project13form\obj\Debug\Project13form.csproj.GenerateResource.cache
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project13\Project13form\obj\Debug\Project13form.csproj.CoreCompileInputs.cache
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project13\Project13form\obj\Debug\Project13form.exe
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project13\Project13form\obj\Debug\Project13form.pdb
+C:\Users\jinsh\OneDrive\바탕 화면\CSharp\Project13\Project13form\obj\Debug\Project13form.exe.config

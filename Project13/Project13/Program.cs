@@ -39,18 +39,31 @@ namespace Project13
             Console.WriteLine("고양이 사료를 먹습니다.");
         }
     }
-
-
     abstract class Parent
     {
         abstract public void test();
     }
-
     class Child : Parent
     {
         public override void test()
         {
             Console.WriteLine("집 가고 싶다~");
+        }
+    }
+    class FPlayer<T>
+    {
+        public T Value;
+
+        public FPlayer(T value)
+        {
+            this.Value = value;
+        }
+    }
+    class CircleArea
+    {
+        public double this[int r]
+        {
+            get { return Math.PI * r * r; }
         }
     }
 
@@ -74,10 +87,17 @@ namespace Project13
             a2.Sleep(); // Animal 클래스의 Sleep 메서드 호출 (업캐스팅으로 인해 Animal 클래스의 Sleep 메서드가 호출됨)
             
             ((Animal)a3).Eat(); // Cat 클래스의 Eat 메서드 호출 (다형성)*/
-            //Parent p1 = new Parent(); // 오류 발생: 추상 클래스는 인스턴스화할 수 없습니다.
+            /*//Parent p1 = new Parent();
             Child c1 = new Child();
-            c1.test(); // Child Method1 호출
+            c1.test(); // Child Method1 호출*/
+            /*FPlayer<string> name = new FPlayer<string>("손흥민");
+            FPlayer<int> wPay = new FPlayer<int>(190000);
+            FPlayer<double> pSu = new FPlayer<double>(0.9);
+            Console.WriteLine($"이름: {name.Value}, 주급: {wPay.Value} 파운드 패스성공률: {pSu.Value * 100}% 입니다.");*/
+            CircleArea c = new CircleArea();
+            Console.Write("반지름: ");
+            int r = int.Parse(Console.ReadLine());
+            Console.WriteLine($"반지름이 {r}인 원의 넓이는 {c[r]}입니다.");
         }
     }
-
 }
